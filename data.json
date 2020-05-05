@@ -1,0 +1,122 @@
+{
+    "customer": [
+        {
+            "first_name": "Adam",
+            "last_name": "Smith",
+            "address": {
+                "number": "14",
+                "street": "Wilcot Street",
+                "town": "Bath",
+                "postcode": "B5 5RT"
+            },
+            "accounts": [
+                {
+                    "account_number": 1234,
+                    "account_type": "Savings",
+                    "interest_rate": 0.05,
+                    "balance": 4995.0,
+                    "overdraft": 250
+                },
+                {
+                    "account_number": 1235,
+                    "account_type": "Debit",
+                    "interest_rate": 0.02,
+                    "balance": 483.5,
+                    "overdraft": 1000
+                }
+            ]
+        },
+        {
+            "first_name": "David",
+            "last_name": "White",
+            "address": {
+                "number": "60",
+                "street": "Holborn Viaduct",
+                "town": "London",
+                "postcode": "EC1A 2FD"
+            },
+            "accounts": [
+                {
+                    "account_number": 1236,
+                    "account_type": "Debit",
+                    "interest_rate": 0.02,
+                    "balance": 3205.0,
+                    "overdraft": 1000
+                }
+            ]
+        },
+        {
+            "first_name": "Alice",
+            "last_name": "Churchil",
+            "address": {
+                "number": "5",
+                "street": "Cardigan Street",
+                "town": "Birmingham",
+                "postcode": "B4 7BD"
+            },
+            "accounts": [
+                {
+                    "account_number": 1237,
+                    "account_type": "Savings",
+                    "interest_rate": 0.05,
+                    "balance": 18000.0,
+                    "overdraft": 250
+                }
+            ]
+        },
+        {
+            "first_name": "Ali",
+            "last_name": "Abdallah",
+            "address": {
+                "number": "44",
+                "street": "Churchill Way West",
+                "town": "Basingstoke",
+                "postcode": "RG21 6YR"
+            },
+            "accounts": [
+                {
+                    "account_number": 1238,
+                    "account_type": "Debit",
+                    "interest_rate": 0.02,
+                    "balance": 40.0,
+                    "overdraft": 1000
+                },
+                {
+                    "account_number": 1239,
+                    "account_type": "Savings",
+                    "interest_rate": 0.05,
+                    "balance": 1500.0,
+                    "overdraft": 250
+                }
+            ]
+        }
+    ],
+    "admin": [
+        {
+            "first_name": "Julian",
+            "last_name": "Padget",
+            "address": {
+                "number": "44",
+                "street": "Churchill Way West",
+                "town": "Basingstoke",
+                "postcode": "RG21 6YR"
+            },
+            "username": "id1188",
+            "password": "1441",
+            "full_rights": true
+        },
+        {
+            "first_name": "Cathy",
+            "last_name": "Newman",
+            "address": {
+                "number": "44",
+                "street": "Churchill Way West",
+                "town": "Basingstoke",
+                "postcode": "RG21 6YR"
+            },
+            "username": "id3313",
+            "password": "2442",
+            "full_rights": false
+        }
+    ]
+}
